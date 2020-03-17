@@ -13,7 +13,6 @@
 *******************************************************************************/
 
 #include <stdio.h>// for all
-#include <conio.h>// for getch();
 #include <limits.h>// use Char-Bit
 #include <stdbool.h>// use logical variable
 #include<stdint.h> // use format intx_t
@@ -58,5 +57,5 @@ void main() {
     printf("ChangeBit\n");
     a = setbit(a, b, c);// call function change bit
     printbits(a);
-    getch();
+   
 }
