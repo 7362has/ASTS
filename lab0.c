@@ -1,6 +1,6 @@
 /*******************************************************************************
 * Copyright (C) 2020 TUSUR, FB
-* File              : main.c
+* File              : lab0.c
 * Compiler          : Netbeans ide
 * Version           : 8.2
 * Created File      : 03.03.2020
